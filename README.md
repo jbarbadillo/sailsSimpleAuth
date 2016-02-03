@@ -10,6 +10,10 @@ in the backend and let the login and registration tasks to the frontend.
 
 ## Intro
 
+Passport authentication is based on this tutorial:
+
+* [Sails.js: User authentication](http://miscposts1.blogspot.com.es/2014/09/sailsjs-user-authentication.html)
+
 Instal the following dependencies:
 
 * `npm install bcrypt-nodejs --save`
